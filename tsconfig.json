@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["esnext"],
+    "lib": ["ES2015"],
     "experimentalDecorators": true
   }
 }

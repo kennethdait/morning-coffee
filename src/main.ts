@@ -3,7 +3,6 @@
  * morning-coffee
  */
 
-
 function isItTimeForMorningCoffee() {
     // const scriptProperties = PropertiesService.getScriptProperties()
     // console.log(JSON.stringify(scriptProperties,null,2))
