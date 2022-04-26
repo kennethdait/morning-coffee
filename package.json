@@ -1,0 +1,30 @@
+{
+  "name": "morning-coffee",
+  "version": "0.1.0",
+  "description": "my personal Google Apps Script library",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kennethdait/morning-coffee.git"
+  },
+  "keywords": [
+    "google-apps-script",
+    "javascript",
+    "node.js",
+    "npm",
+    "clasp",
+    "typescript"
+  ],
+  "author": "Kenneth Dait",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennethdait/morning-coffee/issues"
+  },
+  "homepage": "https://github.com/kennethdait/morning-coffee#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.46"
+  }
+}
